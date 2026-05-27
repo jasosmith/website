@@ -8,11 +8,22 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    search: true
+    background: dark
+    tools:
+      - icon: bluesky
+        href: https://bsky.app
+ 
+
+
+
+
+
 
 format:
   html:
     theme:
-      - cosmo
+      - flatly
       - brand
     css: styles.css
     toc: true

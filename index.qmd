@@ -1,6 +1,12 @@
 ---
 title: "Jason Smith"
+link-external-icon: true
+link-external-newwindow: true
+
 ---
+
+
+![Jason](/img/jas_square.jpg)
 
 This is a Quarto website. And I made a change.
 
