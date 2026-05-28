@@ -1,13 +1,16 @@
 ---
-title: "Jason Smith"
 link-external-icon: true
 link-external-newwindow: true
 
 ---
 
 
-![Jason](/img/jas_square.jpg)
+![](/img/jas_square.jpg){width=200px fig-align="left" fig-alt="Photo of Jason Smith"}
 
-This is a Quarto website. And I made a change.
+I am a professor in the Department of Public Health at California State University, Fullerton. My work and interests are on the legal and ethical aspects of public health and climate change. I have written on heat action plans in California, emphasizing the need for effective governance to address the health impacts of extreme heat, public health surveillance, and public health law generally.  I am licensed to practice law in Massachusetts (2003) and in California (2025). 
+
+To learn more about my current research project, [projects](projects.qmd).
+
+To learn more about me, [about](about.qmd)
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
