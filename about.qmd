@@ -1,5 +1,27 @@
 ---
 title: "About"
+format:
+    html:
+        toc: true
+        toc-location: right
+
 ---
 
-About this site
+
+# Education
+Juris Doctor • Northeastern University School of Law, Boston, MA • 2003
+
+Master of Theological Studies • Harvard University, Cambridge, MA • 1998
+
+Bachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995
+
+# Appointments
+
+Professor, Department of Public Health, California State University, Fullerton • 2024–present
+
+Associate Professor, Department of Public Health, California State University, East Bay • 2019 - 2022
+
+Assistant Professor, Department of Public Health, California State University, East Bay • 2013 - 2019
+
+Assistant Professor, Division of Public Health Law and Bioethics, Univeresity of Connecticut Health Center • 2008 - 2012
+

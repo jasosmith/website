@@ -10,26 +10,26 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
     search: true
-    background: dark
     tools:
       - icon: bluesky
         href: https://bsky.app
  
-
-
-
-
-
-
 format:
   html:
     theme:
-      - lux
-      - brand
-    css: styles.css
+      - litera
+      - custom.scss
+    
     toc: true
+    mainfont: "Source Serif 4"
+    include-in-header:
+      text: 
+        <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 
 
 

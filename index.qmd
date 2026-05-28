@@ -1,16 +1,30 @@
 ---
+title: "Jason Smith"
+description: "Jason Smith is a professor in the Department of Public Health at California State University, Fullerton. His work and interests are on the legal and ethical aspects of public health and climate change."
+about:
+    template: trestles
+    image: /img/jas_square.jpg
+    links:
+        - icon: github
+          href: https://github.com/jasosmith
+        - icon: bluesky
+          href: https://bsky.app/profile/jasonasmith.net
+ 
 link-external-icon: true
 link-external-newwindow: true
 
 ---
 
-
-![](/img/jas_square.jpg){width=200px fig-align="left" fig-alt="Photo of Jason Smith"}
+# Biography
 
 I am a professor in the Department of Public Health at California State University, Fullerton. My work and interests are on the legal and ethical aspects of public health and climate change. I have written on heat action plans in California, emphasizing the need for effective governance to address the health impacts of extreme heat, public health surveillance, and public health law generally.  I am licensed to practice law in Massachusetts (2003) and in California (2025). 
 
-To learn more about my current research project, [projects](projects.qmd).
+# Education
 
-To learn more about me, [about](about.qmd)
+Juris Doctor • Northeastern University School of Law, Boston, MA • 2003
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Master of Theological Studies • Harvard University, Cambridge, MA • 1998
+
+Bachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995
+
+

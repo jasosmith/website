@@ -1,0 +1,18 @@
+/*-- scss:defaults --*/
+
+// Accent color — change this one variable and it propagates everywhere
+$link-color: #2a5f8f;        // a muted slate blue works well for scholarly
+$navbar-bg: #ffffff;
+$navbar-fg: #2c2c2c;
+
+// Typography
+$font-family-base: "Source Serif 4", Georgia, serif;
+$headings-font-family: "Source Serif 4", Georgia, serif;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+// Slightly more generous line height for reading
+body {
+  line-height: 1.75;
+}
