@@ -1,8 +1,11 @@
 project:
   type: website
+  output-dir: gh-pages
+
 
 website:
   title: "Jason Smith"
+  site-url: "https://www.jasonasmith.net"
   navbar:
     left:
       - href: index.qmd
