@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "projects",
+    "section": "",
+    "text": "This is about my projects."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -56,24 +63,17 @@
     "text": "Reports and Other Publications\nLazzarini, Z., Case, P., Smith, J. A., (2011). An Evaluation of the Open Society Institute’s Law and Health Initiative. (Unpublished).\nMiura, M., Smith, J. A., & Alderman, J. (2007). Mapping School Food: A Policy Guide.\nSmith, J. A. (2006). Health legislation trends in the United States of America, 2001 – 2005. New York: PAHO/WHO.\nSmith. J. A. (2006). Legal Curriculum Guide in Jacobson v. Massachusetts in Public Health Law: Perspectives in 2005. Atlanta: Centers for Disease Control and Prevention, Public Health Law Program."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jason Smith",
-    "section": "",
-    "text": "Biography\nI am a professor in the Department of Public Health at California State University, Fullerton. My work and interests are on the legal and ethical aspects of public health and climate change. I have written on heat action plans in California, emphasizing the need for effective governance to address the health impacts of extreme heat, public health surveillance, and public health law generally. I am licensed to practice law in Massachusetts (2003) and in California (2025).\n\n\nEducation\nJuris Doctor • Northeastern University School of Law, Boston, MA • 2003\nMaster of Theological Studies • Harvard University, Cambridge, MA • 1998\nBachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "projects",
-    "section": "",
-    "text": "This is about my projects."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "Education\nJuris Doctor • Northeastern University School of Law, Boston, MA • 2003\nMaster of Theological Studies • Harvard University, Cambridge, MA • 1998\nBachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995\n\n\nAppointments\nProfessor, Department of Public Health, California State University, Fullerton • 2024–present\nAssociate Professor, Department of Public Health, California State University, East Bay • 2019 - 2022\nAssistant Professor, Department of Public Health, California State University, East Bay • 2013 - 2019\nAssistant Professor, Division of Public Health Law and Bioethics, Univeresity of Connecticut Health Center • 2008 - 2012"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jason Smith",
+    "section": "",
+    "text": "Biography\nI am a professor in the Department of Public Health at California State University, Fullerton. My work and interests are on the legal and ethical aspects of public health and climate change. I have written on heat action plans in California, emphasizing the need for effective governance to address the health impacts of extreme heat, public health surveillance, and public health law generally. I am licensed to practice law in Massachusetts (2003) and in California (2025).\n\n\nEducation\nJuris Doctor • Northeastern University School of Law, Boston, MA • 2003\nMaster of Theological Studies • Harvard University, Cambridge, MA • 1998\nBachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995"
   }
 ]
