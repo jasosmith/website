@@ -9,6 +9,10 @@ about:
           href: https://github.com/jasosmith
         - icon: bluesky
           href: https://bsky.app/profile/jasonasmith.net
+        - icon: orcid
+          href: https://orcid.org/0000-0002-6113-8148
+
+
  
 link-external-icon: true
 link-external-newwindow: true
