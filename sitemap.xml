@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.jasonasmith.net/projects.html</loc>
-    <lastmod>2026-06-03T18:14:33.220Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.jasonasmith.net/publications.html</loc>
-    <lastmod>2026-06-03T18:14:33.220Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.jasonasmith.net/about.html</loc>
-    <lastmod>2026-06-03T18:14:33.213Z</lastmod>
+    <lastmod>2026-06-01T16:20:39.591Z</lastmod>
   </url>
   <url>
     <loc>https://www.jasonasmith.net/index.html</loc>
-    <lastmod>2026-06-03T18:14:33.220Z</lastmod>
+    <lastmod>2026-06-03T19:48:03.184Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.jasonasmith.net/projects.html</loc>
+    <lastmod>2026-06-01T16:20:39.591Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.jasonasmith.net/about.html</loc>
+    <lastmod>2026-06-01T16:20:39.555Z</lastmod>
   </url>
 </urlset>
