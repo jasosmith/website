@@ -12,12 +12,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: publications.qmd
-        text: Publications
+      - href: publications_projects.qmd
+        text: Publications and Projects
     search: true
     tools:
       - icon: bluesky
-        href: https://bsky.app
+        href: https://bsky.app/profile/jasonasmith.net
  
 format:
   html:

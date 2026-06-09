@@ -6,7 +6,7 @@ format:
         toc-location: right
 
 ---
-
+Jason Smith is a Professor of Public Health at California State University, Fullerton.  He has served in senior academic leadership roles at CSUF and CSU East Bay, including Dean of the College of Health and Human Development at CSUF and Chair of the Department of Public Health at CSU East Bay, and completed an American Council on Education Fellowship in the Office of Chancellor Cindy Larive at UC Santa Cruz. He has held teaching appointments at the University of Connecticut Health Center and Northeastern University School of Law. Professor Smith's current scholarship examines public health law and climate governance, with a focus on constitutional frameworks for intergenerational justice and the legal status of population health as a norm. His work has appeared in leading law and public health journals, and he serves on the Board of Directors of the American Society of Law, Medicine, and Ethics. He is a licensed attorney in California and Massachusetts. He holds a JD from Northeastern University School of Law and an MTS from Harvard University.
 
 # Education
 Juris Doctor • Northeastern University School of Law, Boston, MA • 2003

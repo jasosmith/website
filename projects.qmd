@@ -1,6 +1,0 @@
----
-title: "projects"
-
----
-
-This is about my projects.
