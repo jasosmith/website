@@ -1,0 +1,9 @@
+---
+title: "Research"
+format:
+    html:
+        toc: true
+        toc-location: right
+
+---
+My research stands at the intersection of public health, law, and climate governance, and asks the question: How can governance systems adapt to the public health implications of climate change while reducing inequities?  I argue constitutional law as a field and as a practice can and should be the site of the practice of public health. Work in public health and in law has largely treated these two fields as related but separate domains and has treated the issues of climate change as technical adaptation issues.  The public health challenges of the Anthropocene are fundamentally governance challenges that require not only technical adaptation and mitigation measures but also fundamental shifts in jurisprudence and a recognition of the significant overlap of public health and law as fields.  This area of focus is an extension of my use of population-based legal analysis in US public health law into comparative constitutional law and jurisprudence. I draw on the German _Schutzpflichten_ tradition and the _Neubauer_ decision and its development of the doctrine of intertemporal freedom guarantee as doctrinal resources that public health law has lacked. I consider the possibilities of population-based legal analysis and populations as more than interpretive frameworks by reconceiving the carbon budget as population health and population health as constitutional and intertemporal.

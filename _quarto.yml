@@ -12,8 +12,12 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: research.qmd
+        text: Research
       - href: publications_projects.qmd
         text: Publications and Projects
+      - href: smith-cv.pdf
+        text: CV  
     search: true
     tools:
       - icon: bluesky

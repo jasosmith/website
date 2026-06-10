@@ -2,14 +2,14 @@
 title: "Jason Smith"
 description: "Jason Smith is a professor in the Department of Public Health at California State University, Fullerton. His work and interests are on the legal and ethical aspects of public health and climate change."
 about:
-    template: trestles
+    template: solana
     image: /img/jas_square.jpg
     links:
         - icon: github
           href: https://github.com/jasosmith
         - icon: bluesky
           href: https://bsky.app/profile/jasonasmith.net
-        - icon: orcid
+        - text: "ORCDID"
           href: https://orcid.org/0000-0002-6113-8148
 
 
@@ -31,4 +31,8 @@ Master of Theological Studies • Harvard University, Cambridge, MA • 1998
 
 Bachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995
 
+# Contact
 
+I'm always glad to hear from scholars working at the intersection of 
+constitutional law and public health. Feel free to reach out at 
+[jasosmith@fullerton.edu](mailto:jasosmith@fullerton.edu).
