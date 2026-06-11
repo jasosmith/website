@@ -26,7 +26,7 @@ website:
 format:
   html:
     theme:
-      - litera
+      - spacelab
       - custom.scss
     
     toc: true
