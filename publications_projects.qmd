@@ -6,9 +6,11 @@ format:
         toc-location: right
 
 ---
-# Current Projects
+# Current Projects, Publications, Presentations, and Other Work in Progress
 
 ## Public Health, Climate Governance, and the Anthropocene 
+
+Smith, Jason A. "Integrating Public Health Law and Planetary Health: Air Conditioning as a Case Study," Presentation at the 2026 Annual Health Law Professors Conference, American Society of Law, Medicine & Ethics, Georgia State University School of Law, 2026.
 
 Smith, Jason A., and Goldberg, Daniel. "A Planetary Health Ethics as a Collection of Governance Problems: Law & Public Health in the Anthropocene" - draft manuscript in progress. (2026)
 
