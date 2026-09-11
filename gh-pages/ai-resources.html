@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>About – Jason Smith</title>
+<title>LLM Resources for Faculty – Jason Smith</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-1b2eff770e37f7d1686b3ec837666573.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-cc5ce5c2607fa6e8aa288bb3e582123b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -96,10 +96,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
@@ -128,8 +124,15 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#education" id="toc-education" class="nav-link active" data-scroll-target="#education">Education</a></li>
-  <li><a href="#appointments" id="toc-appointments" class="nav-link" data-scroll-target="#appointments">Appointments</a></li>
+  <li><a href="#ai-or-me" id="toc-ai-or-me" class="nav-link active" data-scroll-target="#ai-or-me">AI or Me</a>
+  <ul class="collapse">
+  <li><a href="#organization-tasks" id="toc-organization-tasks" class="nav-link" data-scroll-target="#organization-tasks">Organization tasks</a></li>
+  <li><a href="#ai-log" id="toc-ai-log" class="nav-link" data-scroll-target="#ai-log">AI Log</a></li>
+  </ul></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started">Getting Started</a></li>
+  <li><a href="#using-llms-in-research-and-writing" id="toc-using-llms-in-research-and-writing" class="nav-link" data-scroll-target="#using-llms-in-research-and-writing">Using LLMs in Research and Writing</a></li>
+  <li><a href="#using-llms-in-teaching" id="toc-using-llms-in-teaching" class="nav-link" data-scroll-target="#using-llms-in-teaching">Using LLMs in Teaching</a></li>
+  <li><a href="#further-reading" id="toc-further-reading" class="nav-link" data-scroll-target="#further-reading">Further Reading</a></li>
   </ul>
 </nav>
     </div>
@@ -138,7 +141,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">About</h1>
+<h1 class="title">LLM Resources for Faculty</h1>
 </div>
 
 
@@ -155,19 +158,102 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Jason Smith is a Professor of Public Health at California State University, Fullerton. He has served in senior academic leadership roles at CSUF and CSU East Bay, including Dean of the College of Health and Human Development at CSUF and Chair of the Department of Public Health at CSU East Bay, and completed an American Council on Education Fellowship in the Office of Chancellor Cindy Larive at UC Santa Cruz. He has held teaching appointments at the University of Connecticut Health Center and Northeastern University School of Law. Professor Smith’s current scholarship examines public health law and climate governance, with a focus on constitutional frameworks for intergenerational justice and the legal status of population health as a norm. His work has appeared in leading law and public health journals, and he serves on the Board of Directors of the American Society of Law, Medicine, and Ethics. He is a licensed attorney in California and Massachusetts. He holds a JD from Northeastern University School of Law and an MTS from Harvard University.</p>
-<section id="education" class="level1">
-<h1>Education</h1>
-<p>Juris Doctor • Northeastern University School of Law, Boston, MA • 2003</p>
-<p>Master of Theological Studies • Harvard University, Cambridge, MA • 1998</p>
-<p>Bachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995</p>
+<p>A few colleagues have asked what I use and recommend for working with large language models (LLMs) like Claude and ChatGPT — in research, writing, and teaching. This is a running, informal list rather than institutional guidance; treat it as one colleague’s notes, not a policy statement.</p>
+<section id="ai-or-me" class="level1">
+<h1>AI or Me</h1>
+<p>I found it useful in my work to create a table of tasks and identify whether or not I want to delegate them to an LLM or do them myself. Your own table may look different.</p>
+<section id="organization-tasks" class="level2">
+<h2 class="anchored" data-anchor-id="organization-tasks">Organization tasks</h2>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Task</th>
+<th>LLM</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Organization</td>
+<td>Delegate</td>
+</tr>
+<tr class="even">
+<td>Extraction</td>
+<td>Delegate</td>
+</tr>
+<tr class="odd">
+<td>Finding passages</td>
+<td>Assist</td>
+</tr>
+<tr class="even">
+<td>Paper searches</td>
+<td>Assist</td>
+</tr>
+<tr class="odd">
+<td>Summarize a paper I haven’t read</td>
+<td>Caution!</td>
+</tr>
+<tr class="even">
+<td>Evaluate paper’s contribution or importance</td>
+<td>Me first</td>
+</tr>
+<tr class="odd">
+<td>Identify and define conceptual categories and frameworks</td>
+<td>Me first, maybe AI react</td>
+</tr>
+<tr class="even">
+<td>Development of theoretical framework</td>
+<td>Me</td>
+</tr>
+<tr class="odd">
+<td>Summarize a paper I have read</td>
+<td>Delegate</td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="appointments" class="level1">
-<h1>Appointments</h1>
-<p>Professor, Department of Public Health, California State University, Fullerton • 2024–present</p>
-<p>Associate Professor, Department of Public Health, California State University, East Bay • 2019 - 2022</p>
-<p>Assistant Professor, Department of Public Health, California State University, East Bay • 2013 - 2019</p>
-<p>Assistant Professor, Division of Public Health Law and Bioethics, Univeresity of Connecticut Health Center • 2008 - 2012</p>
+<section id="ai-log" class="level2">
+<h2 class="anchored" data-anchor-id="ai-log">AI Log</h2>
+<p>I also have found it useful to keep a running log of my own AI use in my scholarly work so I can track what I did so that I can retrace my work and share if necessary.</p>
+</section>
+</section>
+<section id="getting-started" class="level1">
+<h1>Getting Started</h1>
+<ul>
+<li><a href="https://claude.ai">Anthropic’s Claude</a> — the assistant I use most for research and writing tasks.</li>
+<li><a href="https://chatgpt.com">OpenAI’s ChatGPT</a> — the most widely used alternative; useful to know if students are using it.</li>
+<li><a href="https://thebullshitmachines.com/index.html">The Bullshit Machines</a> — a free short course on how LLMs work and where they mislead; a good starting point for critical, informed use.</li>
+<li><a href="https://academy.claude.com/courses">Claude Academy course catalog</a> — structured video courses on AI fundamentals, using Claude, and AI fluency for various professional roles.</li>
+</ul>
+</section>
+<section id="using-llms-in-research-and-writing" class="level1">
+<h1>Using LLMs in Research and Writing</h1>
+<ul>
+<li><a href="https://github.com/jasosmith/skills">My Claude skills</a> — a collection of skills I use in my own research and writing workflows.</li>
+<li><a href="https://lawve.ai/">Lawve</a> — a hub for legal professionals to discover, download, and share AI agent skills for Claude, ChatGPT, and Gemini.</li>
+<li><a href="https://www.beaverapp.ai/">Beaver</a> — an AI research assistant integrated into Zotero, with sentence-level citations for searching your library and reading papers.</li>
+<li><a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">Andrej Karpathy: append-and-review knowledge bases</a> — a pattern for having an LLM incrementally read sources and maintain a compounding wiki, instead of re-retrieving raw documents each time.</li>
+</ul>
+</section>
+<section id="using-llms-in-teaching" class="level1">
+<h1>Using LLMs in Teaching</h1>
+<ul>
+<li><a href="https://legaled.ai/">LegalEd.AI</a> — explorations in using AI to teach and learn the law, with news, articles, and tool guidance for law students and educators.</li>
+<li><a href="https://academy.claude.com/courses/ai-fluency-for-educators">AI Fluency for Educators</a> (Claude Academy) — a course on applying the “4D” AI Fluency Framework (Delegation, Description, Discernment, Diligence) to teaching practice and course design.</li>
+</ul>
+</section>
+<section id="further-reading" class="level1">
+<h1>Further Reading</h1>
+<ul>
+<li><a href="https://genai.calstate.edu/">CSU Generative AI</a> — the CSU system’s generative AI initiative and resource hub; useful for CSU-specific guidance.</li>
+<li><a href="https://www.oneusefulthing.org/">One Useful Thing</a> — Ethan Mollick’s newsletter on the implications of AI for work, education, and life.</li>
+<li><a href="https://www.aacu.org/trending-topics/ai">AAC&amp;U: AI</a> — resources, events, and initiatives from the Association of American Colleges &amp; Universities on integrating AI into teaching, learning, and institutional practice.</li>
+</ul>
+<hr>
+<p>Have a resource you think belongs here? Feel free to <a href="mailto:jasosmith@fullerton.edu">email me</a> a suggestion.</p>
 
 
 </section>
@@ -260,6 +346,13 @@ ul.task-list li input[type="checkbox"] {
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
+            // default icon
+            link.classList.add("external");
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -1,0 +1,58 @@
+---
+title: "LLM Resources for Faculty"
+format:
+    html:
+        toc: true
+        toc-location: right
+---
+
+A few colleagues have asked what I use and recommend for working with large language models (LLMs) like Claude and ChatGPT — in research, writing, and teaching. This is a running, informal list rather than institutional guidance; treat it as one colleague's notes, not a policy statement.
+
+# AI or Me
+I found it useful in my work to create a table of tasks and identify whether or not I want to delegate them to an LLM or do them myself. Your own table may look different.
+
+## Organization tasks
+
+| Task | LLM |
+| --- | --- |
+| Organization | Delegate |
+| Extraction | Delegate |
+| Finding passages | Assist |
+| Paper searches | Assist |
+| Summarize a paper I haven't read | Caution! |
+| Evaluate paper's contribution or importance | Me first |
+| Identify and define conceptual categories and frameworks | Me first, maybe AI react |
+| Development of theoretical framework | Me |
+| Summarize a paper I have read | Delegate |
+
+## AI Log
+I also have found it useful to keep a running log of my own AI use in my scholarly work so I can track what I did so that I can retrace my work and share if necessary.
+
+# Getting Started
+
+- [Anthropic's Claude](https://claude.ai) — the assistant I use most for research and writing tasks.
+- [OpenAI's ChatGPT](https://chatgpt.com) — the most widely used alternative; useful to know if students are using it.
+- [The Bullshit Machines](https://thebullshitmachines.com/index.html) — a free short course on how LLMs work and where they mislead; a good starting point for critical, informed use.
+- [Claude Academy course catalog](https://academy.claude.com/courses) — structured video courses on AI fundamentals, using Claude, and AI fluency for various professional roles.
+
+# Using LLMs in Research and Writing
+
+- [My Claude skills](https://github.com/jasosmith/skills) — a collection of skills I use in my own research and writing workflows.
+- [Lawve](https://lawve.ai/) — a hub for legal professionals to discover, download, and share AI agent skills for Claude, ChatGPT, and Gemini.
+- [Beaver](https://www.beaverapp.ai/) — an AI research assistant integrated into Zotero, with sentence-level citations for searching your library and reading papers.
+- [Andrej Karpathy: append-and-review knowledge bases](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — a pattern for having an LLM incrementally read sources and maintain a compounding wiki, instead of re-retrieving raw documents each time.
+
+# Using LLMs in Teaching
+
+- [LegalEd.AI](https://legaled.ai/) — explorations in using AI to teach and learn the law, with news, articles, and tool guidance for law students and educators.
+- [AI Fluency for Educators](https://academy.claude.com/courses/ai-fluency-for-educators) (Claude Academy) — a course on applying the "4D" AI Fluency Framework (Delegation, Description, Discernment, Diligence) to teaching practice and course design.
+
+# Further Reading
+
+- [CSU Generative AI](https://genai.calstate.edu/) — the CSU system's generative AI initiative and resource hub; useful for CSU-specific guidance.
+- [One Useful Thing](https://www.oneusefulthing.org/) — Ethan Mollick's newsletter on the implications of AI for work, education, and life.
+- [AAC&U: AI](https://www.aacu.org/trending-topics/ai) — resources, events, and initiatives from the Association of American Colleges & Universities on integrating AI into teaching, learning, and institutional practice.
+
+---
+
+Have a resource you think belongs here? Feel free to [email me](mailto:jasosmith@fullerton.edu) a suggestion.

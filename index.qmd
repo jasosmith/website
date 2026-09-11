@@ -14,13 +14,10 @@ about:
         - text: "ORCDID"
           href: https://orcid.org/0000-0002-6113-8148
 
-
- 
-link-external-icon: true
-link-external-newwindow: true
-
 ---
-I am a professor in the Department of Public Health at California State University, Fullerton. My work and interests are on the legal and ethical aspects of public health and climate change. I have written on heat action plans in California, emphasizing the need for effective governance to address the health impacts of extreme heat, public health surveillance, and public health law generally.  I am licensed to practice law in Massachusetts (2003) and in California (2025). 
+I am a Professor of Public Health at California State University, Fullerton. I have served in senior academic leadership roles at CSUF and CSU East Bay, including Dean of the College of Health and Human Development at CSUF and Chair of the Department of Public Health at CSU East Bay, and completed an American Council on Education Fellowship in the Office of Chancellor Cindy Larive at UC Santa Cruz. I have held teaching appointments at the University of Connecticut Health Center and Northeastern University School of Law.
+
+My work and interests are on the legal and ethical aspects of public health and climate change. I have written on heat action plans in California, emphasizing the need for effective governance to address the health impacts of extreme heat, public health surveillance, and public health law generally. My current scholarship examines public health law and climate governance, with a focus on constitutional frameworks for intergenerational justice and the legal status of population health as a norm. My work has appeared in leading law and public health journals, and I serve on the Board of Directors of the American Society of Law, Medicine, and Ethics. I am licensed to practice law in Massachusetts (2003) and in California (2025).
 
 # Education
 
@@ -30,8 +27,20 @@ Master of Theological Studies • Harvard University, Cambridge, MA • 1998
 
 Bachelor of Arts, cum laude, Phi Beta Kappa • University of Tulsa, OK • 1995
 
+# Appointments
+
+Professor, Department of Public Health, California State University, Fullerton • 2024–present
+
+Associate Professor, Department of Public Health, California State University, East Bay • 2019 - 2022
+
+Assistant Professor, Department of Public Health, California State University, East Bay • 2013 - 2019
+
+Assistant Professor, Division of Public Health Law and Bioethics, University of Connecticut Health Center • 2008 - 2012
+
 # Contact
 
-I'm always glad to hear from scholars working at the intersection of 
-constitutional law and public health. Feel free to reach out at 
+I'm always glad to hear from scholars working at the intersection of
+constitutional law and public health. Feel free to reach out at
 [jasosmith@fullerton.edu](mailto:jasosmith@fullerton.edu).
+
+*Colleagues have also asked what I use for working with LLMs like Claude and ChatGPT — I keep a running, informal list of [resources on that here](ai-resources.qmd).*

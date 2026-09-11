@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
       - href: research.qmd
         text: Research
       - href: publications_projects.qmd
@@ -26,9 +24,10 @@ website:
 format:
   html:
     theme:
-      - spacelab
-      # - custom.scss
-    
+      - journal
+      - custom.scss
+    link-external-icon: true
+    link-external-newwindow: true
     toc: true
     # mainfont: "Source Serif 4"
     # include-in-header:
