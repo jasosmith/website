@@ -74,20 +74,20 @@
     "href": "ai-resources.html",
     "title": "LLM Resources for Faculty",
     "section": "",
-    "text": "A few colleagues have asked what I use and recommend for working with large language models (LLMs) like Claude and ChatGPT — in research, writing, and teaching. This is a running, informal list rather than institutional guidance; treat it as one colleague’s notes, not a policy statement."
+    "text": "A few colleagues have asked what I use and recommend for working with large language models (LLMs) like Claude and ChatGPT — in research, writing, and teaching. This is a running, informal list rather than institutional guidance; treat it as one colleague’s notes."
   },
   {
-    "objectID": "ai-resources.html#organization-tasks",
-    "href": "ai-resources.html#organization-tasks",
+    "objectID": "ai-resources.html#organization-of-researchtasks",
+    "href": "ai-resources.html#organization-of-researchtasks",
     "title": "LLM Resources for Faculty",
-    "section": "Organization tasks",
-    "text": "Organization tasks\n\n\n\n\n\n\n\nTask\nLLM\n\n\n\n\nOrganization\nDelegate\n\n\nExtraction\nDelegate\n\n\nFinding passages\nAssist\n\n\nPaper searches\nAssist\n\n\nSummarize a paper I haven’t read\nCaution!\n\n\nEvaluate paper’s contribution or importance\nMe first\n\n\nIdentify and define conceptual categories and frameworks\nMe first, maybe AI react\n\n\nDevelopment of theoretical framework\nMe\n\n\nSummarize a paper I have read\nDelegate"
+    "section": "Organization of researchtasks",
+    "text": "Organization of researchtasks\n\n\n\n\n\n\n\nTask\nLLM\n\n\n\n\nOrganization\nDelegate\n\n\nExtraction\nDelegate\n\n\nFinding passages\nAssist\n\n\nPaper searches\nAssist\n\n\nSummarize a paper I haven’t read\nCaution!\n\n\nEvaluate paper’s contribution or importance\nMe first\n\n\nIdentify and define conceptual categories and frameworks\nMe first, maybe AI react\n\n\nDevelopment of theoretical framework\nMe\n\n\nSummarize a paper I have read\nDelegate"
   },
   {
     "objectID": "ai-resources.html#ai-log",
     "href": "ai-resources.html#ai-log",
     "title": "LLM Resources for Faculty",
     "section": "AI Log",
-    "text": "AI Log\nI also have found it useful to keep a running log of my own AI use in my scholarly work so I can track what I did so that I can retrace my work and share if necessary."
+    "text": "AI Log\nI find it useful to keep a running log of my own AI use in my scholarly work so I can track what I did so that I can retrace my work and share if necessary."
   }
 ]
