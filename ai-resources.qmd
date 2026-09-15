@@ -50,6 +50,7 @@ I find it useful to keep a running log of my own AI use in my scholarly work so 
 # Further Reading
 
 - [CSU Generative AI](https://genai.calstate.edu/) — the CSU system's generative AI initiative and resource hub; useful for CSU-specific guidance.
+  - [CSU AI Tool Availability and CSU Data Classification Rules and AI](https://genai.calstate.edu/ai-tools) - This page has a list of the tools available to the Cal State system and importantly indicates what CSU information can be used with each tool and with publicly available tools.
 - [One Useful Thing](https://www.oneusefulthing.org/) — Ethan Mollick's newsletter on the implications of AI for work, education, and life.
 - [AAC&U: AI](https://www.aacu.org/trending-topics/ai) — resources, events, and initiatives from the Association of American Colleges & Universities on integrating AI into teaching, learning, and institutional practice.
 - [MIT Education and AI Report, January 2026](https://aiandeducation.mit.edu/) 
